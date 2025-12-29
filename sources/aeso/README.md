@@ -1,6 +1,6 @@
 # Lakeflow AESO Community Connector
 
-Extract Alberta electricity market data from AESO API into your data lake. Supports incremental CDC synchronization for hourly pool price data.
+Extract Alberta electricity market data from AESO API into Databricks Delta lake. Supports incremental CDC synchronization for hourly pool price data.
 
 ## Prerequisites
 
